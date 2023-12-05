@@ -5,6 +5,8 @@
 
 ![lms](https://jhs.adnu.edu.ph/pluginfile.php/1/theme_remui/section_html/942325426/welcomebg.png)
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX8Uebhn9wzrS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ---
 
 | x | o | o |
